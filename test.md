@@ -21,4 +21,4 @@ please fork this repository and review us we are waiting for youur words
 
 ## 	Copyright
 
-2020 Git.training
+2020 Git.training. All right reserve
