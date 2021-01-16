@@ -9,6 +9,9 @@ This is example is to show different parts of the Git repository and various com
 
 ## Puurpose  
 
+ As stated above , the main purpose is to ptovide simple examples for Git training demos .
+
 ##Deployement
+deplyement can be in any server 
 
 ## How to contribute 
