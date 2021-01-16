@@ -16,7 +16,7 @@ deployement can be in any server
 
 
 ## How to contribute 
-please fork this repository and review us 
+please fork this repository and review us we are waiting for youur words
 
 ## 	Copyright
 
