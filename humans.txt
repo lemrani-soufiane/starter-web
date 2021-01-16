@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    soufiane lemrani seoufiane@lemrani.com
 # THANKS
 
     <name>
