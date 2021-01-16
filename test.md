@@ -14,4 +14,9 @@ This is example is to show different parts of the Git repository and various com
 ## Deployement
 deployement can be in any server 
 
+
 ## How to contribute 
+
+## 	Copyright
+
+2020 Git.training
